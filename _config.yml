@@ -1,0 +1,14 @@
+layout_spectrum: 0.6030377
+color:
+  saturation: 0.778393
+  lightness: 0.2982995
+  brandStrength: 0.2078995
+  rhythmicContrast: 0.03891537
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 1
+name: Kwadwo
